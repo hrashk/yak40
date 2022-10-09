@@ -1,2 +1,2 @@
-lore ipsum
-
+lorem ipsum
+add new line
